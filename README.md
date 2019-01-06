@@ -1,2 +1,2 @@
-# Neon-Ball
-A really bad game. Please don't play this.
+# Lens Simulator
+Best Simulator yet
